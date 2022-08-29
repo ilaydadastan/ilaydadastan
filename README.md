@@ -30,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilaydadastan&show_icons=true&locale=en" alt="ilaydadastan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilaydadastan&" alt="ilaydadastan" /></p>
-
