@@ -1,8 +1,6 @@
 # Ilayda-Dastan
 <h1 align="center">Hi 👋, I'm Ilayda Dastan</h1>
 <h3 align="center">I'm a new graduate Information Systems Engineering. Also I'm Product Manager at Segmentify. And I am involved in many software development projects. I'm posting what I've learned on github. Keep following!</h3>
-<img align="right" alt="Coding" width="400" src="https://derpicdn.net/img/2017/4/17/1414145/full.gif">
-
 
 - 🌱 I’m currently learning **Java, Spring Boot**
 
