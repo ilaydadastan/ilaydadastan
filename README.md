@@ -2,7 +2,7 @@
 <h3 align="center">Hi 👋, I'm İlayda Daştan! </h3>
 <h5 align="center">I'm a new graduate Information Systems Engineering. And I am involved in many software development projects. I'm posting what I've learned on github. Keep following!</h5>
 
-👩🏼‍💻 I’m currently working on **Java, Spring Boot, Object Oriented, Apache SOLR, SQL, Python**
+👩🏼‍💻 I’m currently working on **Java, Spring Boot, Object Oriented, Apache SOLR, SQL, Python, AngularJS**
 
 📝 I regularly write articles on [https://ilaydadastan.com/](https://ilaydadastan.com/)
 
