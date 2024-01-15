@@ -1,25 +1,24 @@
-# Ilayda-Dastan
-<h3 align="center">Hi 👋, I'm İlayda Daştan! </h3>
-<h5 align="center">I'm a new graduate Information Systems Engineering. And I am involved in many software development projects. I'm posting what I've learned on github. Keep following!</h5>
+# Hi! I'm Ilayda Dastan
 
-👩🏼‍💻 I’m currently working on Java, Spring Boot, React, AWS, Object Oriented, SQL, Python
+I'm working as a software engineer in Estonia. I'm passionate about software development, specializing in Java, Spring Boot, AWS and React technologies. In my career, I have worked as both a product manager and a software engineer. This two-way experience helped me gain a more comprehensive perspective on the overall vision of the product while contributing to projects. I focus on creating solutions by adding value to projects with both my technical perspective and strategic product development skills. Here I share my own projects and the knowledge I have gained, and convey my experiences. Please do not hesitate to contact us and keep following! 
 
-📝 I regularly write articles on [https://ilaydadastan.com/](https://ilaydadastan.com/)
 
-👉🏼 My Linkedin https://www.linkedin.com/in/ilaydadastan/
-
-📩 How to reach me ilaydastan2@gmail.com
-
-<h5 align="left">Connect with me:</h5>
-<p align="left">
-<a href="https://twitter.com/ilaydadastann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ilaydadastann" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>                                                          
+<div id="badges" align="center">
+<a href="https://twitter.com/ilaydadastan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ilaydadastan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ilaydadastan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilaydadastan" height="30" width="40" /></a>
-<a href="https://medium.com/@ilaydadastan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ilaydadastan" height="30" width="40" /></a>
+<a href="https://ilaydadastan.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ilaydadastan" height="30" width="40" /></a>
+</div>
+
+
+<h3 align="center">My overall tech stack:</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/springio-icon.svg" alt="Spring" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/rabbitmq-icon.svg" alt="rabbitMq" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
 </p>
-
-<h5 align="left">Languages and Tools:</h5>
-
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
-
-
