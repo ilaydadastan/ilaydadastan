@@ -1,6 +1,6 @@
 # Hi! I'm Ilayda Dastan
 
-I'm working as a software engineer in Estonia. I'm passionate about software development, specializing in Java, Spring Boot, AWS and React technologies. In my career, I have worked as both a product manager and a software engineer. This two-way experience helped me gain a more comprehensive perspective on the overall vision of the product while contributing to projects. I focus on creating solutions by adding value to projects with both my technical perspective and strategic product development skills. Here I share my own projects and the knowledge I have gained, and convey my experiences. Please do not hesitate to contact us and keep following! 
+I'm working as a software engineer in Estonia. I'm passionate about software development, specializing in Java, Spring Boot, AWS and React technologies. In my career, I have worked as both a product manager and a software engineer. This two-way experience helped me gain a more comprehensive perspective on the overall vision of the product while contributing to projects. I focus on creating solutions by adding value to projects with both my technical perspective and strategic product development skills. Here I share my own projects and the knowledge I have gained, and convey my experiences. Please do not hesitate to contact me and keep following! 
 
 
 <h3 align="center">Connect with me:</h3>                                                          
